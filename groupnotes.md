@@ -29,27 +29,27 @@ Project Description
     - [ ] Rooms
     - [ ] Items
 
-### TODO: Week 5 (Deliverable)
+### TODO: Week 5 (Deliverable - 5%)
 - [ ] Architecture Diagram
 
-### TODO: Week 6 (Deliverable)
+### TODO: Week 6 (Deliverable - 5%)
 - [ ] UML class diagram
   - [ ] Classes
   - [ ] Methods
   - [ ] Unit Tests
 
-### TODO: Week 7 (Deliverable)
+### TODO: Week 7 (Deliverable - 5%)
 - [ ] UML state diagram for a single NPC
   - [ ] Determine behaviour and possible states
 
 ## Week 8-9 - Continue to code, test, refactor, etc
 
-### TODO: Week 10 (Deliverable)
+### TODO: Week 10 (Deliverable - 5%)
 - [ ] Design Patterns
 - [ ] Design Anti-Patterns
 
-### TODO: Week 11 (Deliverable)
+### TODO: Week 11 (Deliverable - 10%)
 - [ ] User POV: Discuss gameworld mechanics and storyline
 
-### TODO: Week 12 (Deliverable)
+### TODO: Week 12 (Deliverable - 20%)
 - [ ] Programmer POV: Highlight interesting architecture and implementation details in the source code and structure of gameworld data files
