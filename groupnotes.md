@@ -2,7 +2,7 @@
 Project Description
 
 ### TODO: Week 1
-- [ ] Assemble Group Members
+- [x] Assemble Group Members
   - [ ] Assign group responsibilities
   - [ ] Decide on programming language/stack
     - [ ] Determine coding conventions
