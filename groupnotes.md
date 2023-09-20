@@ -42,7 +42,7 @@ Project Description
 - [ ] UML state diagram for a single NPC
   - [ ] Determine behaviour and possible states
 
-## Week 8-9 - Continue to code, test, refactor, etc
+### Week 8-9 - Continue to code, test, refactor, etc
 
 ### TODO: Week 10 (Deliverable - 5%)
 - [ ] Design Patterns
